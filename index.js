@@ -7,6 +7,16 @@ function sub(x,y){
     return x-y
 }
 
+function multiply(p,q){
+    if(p<0 || q <0) throw new Error("add positive nuumber")
+    return p*q
+}
+
+multiply(23 , 24)
+multiply(2,3)
+multiply(4,9);
+
+
 
 sub (7, 2)
 
