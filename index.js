@@ -13,6 +13,8 @@ function multiply(p,q){
 
 multiply(23 , 24)
 multiply(2,3)
+multiply(4,9);
+
 
 
 sub (7, 2)
