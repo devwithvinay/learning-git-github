@@ -7,6 +7,12 @@ function sub(x,y){
     return x-y
 }
 
+function multiply(p,q){
+    return p*q
+}
+
+multiply(23 , 24)
+
 
 sub (7, 2)
 
