@@ -8,6 +8,7 @@ function sub(x,y){
 }
 
 function multiply(p,q){
+    if(p<0 || q <0) throw new Error("add positive nuumber")
     return p*q
 }
 
